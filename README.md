@@ -1,4 +1,4 @@
-# Wine_Quality_Project
+# Wine Quality Project
 Use multiple machine learning algorithms to predict the wine quality.
 
 Team Members: Tian (Luke) Qi, Ran Huang, Randy Ma, Anna Zeng.
