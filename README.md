@@ -4,7 +4,7 @@ Use multiple machine learning algorithms to predict the wine quality.
 Team Members: Tian (Luke) Qi, Ran Huang, Randy Ma, Anna Zeng.
 
 ## Goal
-This project is the final project of MSDS621 Introduction to Machine Learning. In this project we used Naive Bayes, Decision Tree, Random Forest, Support Vector Classifier to predict wine quality. In the presentation slides, we showed our models' performance on the test data.
+This project is the final project of MSDS621 Introduction to Machine Learning. In this project we used Decision Tree, Random Forest, Support Vector Classifier, KNN to predict wine quality. In the presentation slides, we showed our models' performance on the test data.
 
 The learning outcome of this project is to understand the concept of some machine learning algorithms and implementation of them.
 
