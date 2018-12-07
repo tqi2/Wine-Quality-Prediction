@@ -19,4 +19,4 @@ After resampling, the random forest model has 73% accuracy on the test data, and
 ## Deliverables
 The **presentation_slides** shows the complete workflow of the project.
 
-The **project.ipynb shows* the corresponding code of our project
+The **project.ipynb** shows the corresponding code of our project
