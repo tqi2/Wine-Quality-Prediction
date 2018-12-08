@@ -9,7 +9,7 @@ This project is the final project of MSDS621 Introduction to Machine Learning. I
 The learning outcome of this project is to understand the concept of some machine learning algorithms and implementation of them.
 
 ## Description of Data
-The dataset we will be analyzing in this study is from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/wine+quality)
+The dataset we will be analyzing in this study is from the [UCI Machine Learning Repository] (https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 The data includes information about red and white vinho verde wine samples, from the north of Portugal, with their 11 features: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol.
 
